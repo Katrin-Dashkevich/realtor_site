@@ -1,5 +1,5 @@
 # realtor_site
-This project is realtor's personal web-site.
+This project is realtor's personal web-site - my graduation project.
 Here I used:
 - Python
 - Django
