@@ -6,4 +6,4 @@ Here I used:
 - HTML
 - CSS
 - Bootstrap
-Also I wrote some texts, based on  SEO rules.
+- Also I wrote some texts, based on  SEO rules.
